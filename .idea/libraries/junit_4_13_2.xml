@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="junit-4.13.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/junit-4.13.2.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/JavaHamcrest-2.2.zip!/JavaHamcrest-2.2/docs/javadoc/1.3" />
+      <root url="jar://$USER_HOME$/Downloads/JavaHamcrest-2.2.zip!/JavaHamcrest-2.2/docs/javadoc/2.0.0.0" />
+      <root url="jar://$USER_HOME$/Downloads/JavaHamcrest-2.2.zip!/JavaHamcrest-2.2/docs/javadoc/2.1" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/JavaHamcrest-2.2.zip!/JavaHamcrest-2.2/hamcrest-core/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/JavaHamcrest-2.2.zip!/JavaHamcrest-2.2/hamcrest-integration/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/JavaHamcrest-2.2.zip!/JavaHamcrest-2.2/hamcrest-library/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/JavaHamcrest-2.2.zip!/JavaHamcrest-2.2/hamcrest/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/JavaHamcrest-2.2.zip!/JavaHamcrest-2.2/hamcrest/src/test/java" />
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
